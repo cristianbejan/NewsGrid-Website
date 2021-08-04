@@ -268,7 +268,7 @@ p {
   width: 100%;
 }
 
-.footer-content .mail .btn:first-child {
+.footer-content .mail #email {
   width: 100%;
   color: #333;
   padding: 0.5rem;
