@@ -266,6 +266,8 @@ p {
 
 .footer-content .mail .btn {
   width: 100%;
+  color: #333;
+  padding: 0.5rem;
 }
 
 .footer-content .mail input:hover {opacity: 1;}
